@@ -1,0 +1,21 @@
+body {
+    font-family: segoe ui, Segoe, Tahoma, Geneva, sans-serif;
+    color: #505050;
+    font-size: 16px;
+    padding-top: 30pt;
+    padding-left: 80pt;
+    padding: 20px 40px 10px 30px;
+    width: 730px;
+    min-height: 600px;
+    font-size: larger
+}
+
+h1 {
+    font-size: 32px;
+    padding-top: 10px;
+}
+
+p {
+    padding-bottom: 10px
+}
+
